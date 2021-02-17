@@ -76,7 +76,7 @@
    **`How to commit and push`**
 
    * a.) `git add --all`
-   * b.) `git commit -m "game progress as of MM-DD-YYYY"`
+   * b.) `git commit -m "game progress as of MM-DD-YYYY played in the afternoon"`
    * c.) `git push -u origin progress-MM-DD-YYYY`
 
  6.) Merge the latest progress to `main` branch
